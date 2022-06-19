@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/Posledny_blok/cmake-build-debug/CMakeFiles/Posledny_blok.dir
+C:/Users/User/CLionProjects/Posledny_blok/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/Posledny_blok/cmake-build-debug/CMakeFiles/rebuild_cache.dir
