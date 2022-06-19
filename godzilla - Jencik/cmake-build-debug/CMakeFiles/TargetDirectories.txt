@@ -1,0 +1,3 @@
+C:/Users/User/CLionProjects/godzilKon/cmake-build-debug/CMakeFiles/godzilKon.dir
+C:/Users/User/CLionProjects/godzilKon/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/CLionProjects/godzilKon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
